@@ -1,7 +1,7 @@
 <?php
 
     namespace framework\base;
-	use app\views\errorView;
+    use app\views\errorView;
     abstract class Controller
     {
 
